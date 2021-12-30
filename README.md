@@ -13,6 +13,8 @@
 const mtya = {
   pronouns: "He" | "him",
   code: [Javascript, HTML, CSS, C]
+  }
+```
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
