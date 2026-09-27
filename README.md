@@ -1,9 +1,9 @@
-<h2> Hi, I'm Juan Andrés Montoya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="TU_NUEVA_FOTO_AQUI" width="150" height="auto">
+<h2> Hi, I'm Juan Andrés Montoya Zabaleta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://github.com/user-attachments/assets/a536ad37-5506-493a-bf61-3a1d77b9ca42" width="150" height="auto">
 <p><em>Computer Systems Engineer passionate about backend development, databases, and AI-powered automation. Graduate of <a href="https://www.unach.mx/">Universidad Autónoma de Chiapas</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![LinkedIn: Juan Andrés Montoya](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/andres-montoya-313a80243/)
+[![LinkedIn: Juan Andrés Montoya](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedi)](https://www.linkedin.com/in/andres-montoya-313a80243/)
 [![GitHub Andres](https://img.shields.io/github/followers/Andres?label=follow&style=social)](https://github.com/MontoyaAndress)
 
 
